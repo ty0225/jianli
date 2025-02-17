@@ -1,0 +1,7 @@
+{
+  "name": "jianli",
+  "version": "1.0.0",
+  "dependencies": {
+    "markdown-pdf": "^9.0.0"
+  }
+}
